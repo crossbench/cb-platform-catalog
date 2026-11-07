@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "id": "pokopoko-tap",
+      "title": "ポコポコタップ",
+      "description": "出てきた動物をタップする30秒のもぐらたたき風ゲーム",
+      "version": "1.0.0",
+      "packageUrl": "packages/pokopoko-tap-1.0.0.zip",
+      "sha256": "d6b7c5af29f0a43fef38dd0265b01b4bec3cb23cf8d94dbf5b7307fde8cb0947",
+      "sizeBytes": 2404,
+      "iconUrl": null
+    },
+    {
+      "id": "suji-touch",
+      "title": "すうじタッチ",
+      "description": "1から20まで順番にタップするタイムアタックゲーム",
+      "version": "1.0.0",
+      "packageUrl": "packages/suji-touch-1.0.0.zip",
+      "sha256": "04bcdc2b826ede64e3f20917217b9e002b2805955b907c4e1c6ab3bb23e09a03",
+      "sizeBytes": 2392,
+      "iconUrl": null
+    }
+  ]
+}
