@@ -27,8 +27,8 @@ fetch('manifest.json').then(r => r.json()).then(m => {
     d.className = 'game';
     d.innerHTML = '<h2></h2><div class="meta"></div><a class="btn">ダウンロード (zip)</a>';
     d.querySelector('h2').textContent = g.title;
-    d.querySelector('.meta').textContent = 'バージョン ' + g.version + ' / ' + Math.max(1, Math.round((g.size||0)/1024)) + ' KB';
-    d.querySelector('a').href = g.package;
+    d.querySelector('.meta').textContent = 'バージョン ' + g.version + ' / ' + Math.max(1, Math.round((g.sizeBytes||0)/1024)) + ' KB';
+    d.querySelector('a').href = g.packageUrl;
     el.appendChild(d);
   });
 }).catch(() => { document.getElementById('games').textContent = 'manifest.json を読み込めませんでした。'; });
