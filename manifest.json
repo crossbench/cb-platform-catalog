@@ -1,6 +1,16 @@
 {
   "games": [
     {
+      "id": "onenight-jinro",
+      "title": "ワンナイト人狼",
+      "description": "3〜6人でスマホを回して遊ぶ、一夜で終わる人狼ゲーム。役職は人狼・占い師・怪盗・村人",
+      "version": "1.0.0",
+      "packageUrl": "packages/onenight-jinro-1.0.0.zip",
+      "sha256": "955200f34aee7c5ea7cac117a228417110e1cdd16cd63d7bd8af9ff30f19ca0c",
+      "sizeBytes": 7352,
+      "iconUrl": null
+    },
+    {
       "id": "pokopoko-tap",
       "title": "ポコポコタップ",
       "description": "出てきた動物をタップする30秒のもぐらたたき風ゲーム",
