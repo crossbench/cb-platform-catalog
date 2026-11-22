@@ -4,10 +4,10 @@
       "id": "onenight-jinro",
       "title": "ワンナイト人狼",
       "description": "3〜6人でスマホを回して遊ぶ、一夜で終わる人狼ゲーム。役職はカスタム可能（人狼・狂人・占い師・怪盗・トラブルメーカー・酔っぱらい・不眠症・村人）",
-      "version": "1.1.0",
-      "packageUrl": "packages/onenight-jinro-1.1.0.zip",
-      "sha256": "4913b7fae9f550cee87aecebc8a56e12d72f530f89d9bda81fd0d3d162ea33b7",
-      "sizeBytes": 8881,
+      "version": "1.2.0",
+      "packageUrl": "packages/onenight-jinro-1.2.0.zip",
+      "sha256": "075d13f03043cab905ecbb1bf2002e3e6117759e50c0bec040e95ed222061760",
+      "sizeBytes": 9202,
       "iconUrl": null
     },
     {
